@@ -1,0 +1,21 @@
+.font_style{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+.maincolor{
+    background-color:  #f7ecde;
+}
+
+.style_p{
+    font-family: 'Righteous', sans-serif;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.btn-submit{
+    background-color: #d1512d;
+    font-weight: 500;
+}
+.btn-submit:hover{
+    background-color: #a03315;
+}
